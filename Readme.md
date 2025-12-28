@@ -23,13 +23,13 @@ This project deconstructs the **Stable Diffusion pipeline** into a visual, mathe
 
 ## 🛠️ Installation
 
-1.  **Clone the repo**
+1. **Clone the repo**
     ```bash
     git clone [https://github.com/manjusg/diffusion-viz.git](https://github.com/manjusg/diffusion-viz.git)
     cd diffusion-viz
     ```
 
-2.  **Install Dependencies**
+2. **Install Dependencies**
     You will need [Manim Community](https://www.manim.community/) and NumPy.
     ```bash
     pip install manim numpy
@@ -42,3 +42,28 @@ Run the following command to render the video in high quality (60FPS):
 
 ```bash
 manim -pqh main.py AdvancedDiffusionViz
+
+Flags:
+
+-p: Preview the file after rendering.
+
+-qh: Render in High Quality (1080p).
+
+-ql: Render in Low Quality (480p) - Use for quick testing.
+
+📂 Project Structure
+Plaintext
+
+├── main.py            # The core animation logic
+├── assets/            # (Optional) Custom textures
+└── README.md          # Documentation
+🤝 Connect
+I post daily breakdowns of AI & Tech concepts.
+
+Instagram: @manju.s.g_
+
+Twitter: @manju_sg_
+
+LinkedIn: Manjunath G
+
+Built with 💙 by Manju.
