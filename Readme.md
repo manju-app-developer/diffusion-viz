@@ -43,21 +43,19 @@ Run the following command to render the video in high quality (60FPS):
 ```bash
 manim -pqh main.py AdvancedDiffusionViz
 
-Flags:
+**Flags:**
+* `-p`: Preview the file after rendering.
+* `-qh`: Render in High Quality (1080p).
+* `-ql`: Render in Low Quality (480p) - *Use for quick testing.*
 
--p: Preview the file after rendering.
+## 📂 Project Structure
 
--qh: Render in High Quality (1080p).
-
--ql: Render in Low Quality (480p) - Use for quick testing.
-
-📂 Project Structure
-Plaintext
-
+```text
 ├── main.py            # The core animation logic
 ├── assets/            # (Optional) Custom textures
 └── README.md          # Documentation
-🤝 Connect
+
+##🤝 Connect
 I post daily breakdowns of AI & Tech concepts.
 
 Instagram: @manju.s.g_
