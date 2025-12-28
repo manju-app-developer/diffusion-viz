@@ -55,13 +55,13 @@ manim -pqh main.py AdvancedDiffusionViz
 ├── assets/            # (Optional) Custom textures
 └── README.md          # Documentation
 
-##🤝 Connect
+## 🤝 Connect
+
 I post daily breakdowns of AI & Tech concepts.
 
-Instagram: @manju.s.g_
+* **Instagram:** [@manju.s.g_](https://instagram.com/manju.s.g_)
+* **Twitter:** [@manju_sg_](https://twitter.com/manju_sg_)
+* **LinkedIn:** [Manjunath G](https://www.linkedin.com/in/manjusg/)
 
-Twitter: @manju_sg_
-
-LinkedIn: Manjunath G
-
-Built with 💙 by Manju.
+---
+*Built with 💙 by Manju.*
