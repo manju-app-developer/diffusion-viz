@@ -50,11 +50,11 @@ manim -pqh main.py AdvancedDiffusionViz
 
 ## 📂 Project Structure
 
-text
+```bash
 ├── main.py            # The core animation logic
 ├── assets/            # (Optional) Custom textures
 └── README.md          # Documentation
-
+```
 ## 🤝 Connect
 
 I post daily breakdowns of AI & Tech concepts.
